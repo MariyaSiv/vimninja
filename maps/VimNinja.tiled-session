@@ -1,0 +1,104 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map2.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Tilesets"
+    ],
+    "fileStates": {
+        "Tilesets/Fences.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/TX Plant.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/TX Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/TX Struct.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/TX Tileset Stone Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/Wall.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "Tilesets/Water+.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "map1.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 720,
+                "y": 479.5
+            }
+        },
+        "map2.tmx": {
+            "expandedObjectLayers": [
+                5,
+                2
+            ],
+            "scale": 0.9311979166666666,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 582.0459757257117,
+                "y": 316.25929861849096
+            }
+        }
+    },
+    "last.imagePath": "/home/mariya/Documents/Uni/Algorithms/Project/maps/Tilesets/Pixel Art Top Down/Texture",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "openFiles": [
+        "map1.tmx",
+        "map2.tmx",
+        "Tilesets/Grass.tsx",
+        "Tilesets/Wall.tsx",
+        "Tilesets/TX Props.tsx",
+        "Tilesets/TX Struct.tsx",
+        "Tilesets/TX Plant.tsx",
+        "Tilesets/Water+.tsx",
+        "Tilesets/TX Tileset Stone Ground.tsx"
+    ],
+    "project": "VimNinja.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map1.tmx",
+        "Tilesets/TX Tileset Stone Ground.tsx",
+        "Tilesets/Water+.tsx",
+        "Tilesets/TX Plant.tsx",
+        "Tilesets/TX Struct.tsx",
+        "Tilesets/TX Props.tsx",
+        "Tilesets/Wall.tsx",
+        "Tilesets/Grass.tsx",
+        "map2.tmx",
+        "Tilesets/Fences.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
